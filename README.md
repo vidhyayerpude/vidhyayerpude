@@ -63,6 +63,8 @@ Looking forward to collaborating on exciting projects and creating something ama
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 </p>
 ### 🔥 Streak Stats
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=vidhyayerpude&theme=radical)
 ### 📈 Contribution Graph
+
 ![Vidhya's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vidhyayerpude&theme=dracula)
