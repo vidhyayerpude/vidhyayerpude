@@ -64,7 +64,8 @@ Looking forward to collaborating on exciting projects and creating something ama
 </p>
 ### 🔥 Streak Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=vidhyayerpude&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vidhyayerpude&theme=radical)
+
 ### 📈 Contribution Graph
 
-![Vidhya's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vidhyayerpude&theme=dracula)
+![Vidhya's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=vidhyayerpude&theme=dracula)
